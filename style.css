@@ -1,0 +1,62 @@
+
+  html {
+    height: 150%;
+    background-color: #E2CEC2;
+  }
+  .wrapper {
+    position: relative;
+    top: 80px;
+    margin: 5px;
+    padding: 10px;
+    background-color: #94BBAD;
+    border-radius: 5px;
+    border: black solid 1px;
+  }
+  
+  nav {
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #A6808C;
+    color: white;
+    box-sizing: border-box;
+    padding: 20px 8px;
+    z-index: 5;
+  }
+  
+p {
+    margin-bottom: 20px;
+    color: black;
+    font-family: "Futura";
+    font-size: 18px;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+    font-family: "Futura";
+  }
+  
+  header {
+    position: relative;
+    top: 80px;
+    width: 100%;
+    height: 60px;
+    margin-top: 1opx;
+    margin-bottom: 10px;
+    color: black;
+    text-align: center;
+    font-family: "Futura";
+    font-size: 2em;
+    padding-top: 10px;
+  }
+  
+img {
+  height: 200px;
+  position: relative;
+  margin: 5px;
+
+}
